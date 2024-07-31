@@ -1,0 +1,24 @@
+{
+  "name": "testmaker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quipucorp/testMaker.git"
+  },
+  "author": "Quipu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quipucorp/testMaker/issues"
+  },
+  "homepage": "https://github.com/quipucorp/testMaker#readme",
+  "dependencies": {
+    "csv-stringify": "^6.5.1",
+    "firebase-admin": "^12.3.0"
+  }
+}

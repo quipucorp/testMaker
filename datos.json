@@ -1,0 +1,58 @@
+[{
+  "id": 1,
+  "name": "Namek",
+  "isDestroyed": true,
+  "description": "Planeta natal de los Namekianos. Escenario de importantes batallas y la obtención de las Dragon Balls de Namek.",
+  "image": "https://dragonball-api.com/planetas/Namek_U7.webp",
+  "deletedAt": null,
+  "characters": [
+      {
+          "id": 3,
+          "name": "Piccolo",
+          "ki": "2.000.000",
+          "maxKi": "500.000.000",
+          "race": "Namekian",
+          "gender": "Male",
+          "description": "Es un namekiano que surgió tras ser creado en los últimos momentos de vida de su padre, siendo su actual reencarnación. Aunque en un principio fue el archienemigo de Son Goku, con el paso del tiempo fue haciéndose menos malvado hasta finalmente convertirse en un ser bondadoso y miembro de los Guerreros Z. A través del tiempo, también comenzó a tomarle cariño a su discípulo Son Gohan, a quien veía como una especie de \"vástago\" y formando un lazo de amistad con este.",
+          "image": "https://dragonball-api.com/characters/picolo_normal.webp",
+          "affiliation": "Z Fighter",
+          "deletedAt": null
+      },
+      {
+          "id": 8,
+          "name": "Ginyu",
+          "ki": "9.000",
+          "maxKi": "25.000",
+          "race": "Frieza Race",
+          "gender": "Male",
+          "description": "Ginyu es el líder del la élite de mercenarios de mayor prestigio del Ejército de Freeza, la cual lleva el nombre de Fuerzas Especiales Ginew en su honor[9].",
+          "image": "https://dragonball-api.com/characters/ginyu.webp",
+          "affiliation": "Army of Frieza",
+          "deletedAt": null
+      },
+      {
+          "id": 21,
+          "name": "Dende",
+          "ki": "3.200",
+          "maxKi": "3.200",
+          "race": "Namekian",
+          "gender": "Male",
+          "description": "Sucesor de Piccolo como el nuevo Namekian protector de la Tierra. Es un pequeño namekiano, que vivía en el poblado de Moori, junto a su hermano Scargo y otros tantos de su especie. Es el hijo 108 del Gran Patriarca y posteriormente Dios de la Tierra, sustituyendo a Dios.",
+          "image": "https://dragonball-api.com/characters/Dende_Artwork.webp",
+          "affiliation": "Z Fighter",
+          "deletedAt": null
+      },
+      {
+          "id": 29,
+          "name": "Nail",
+          "ki": "42.000 ",
+          "maxKi": "42.000",
+          "race": "Namekian",
+          "gender": "Male",
+          "description": "Es un Namekiano (habitante del planeta Namek), que se caracteriza por formar parte de los escasos miembros de la \"estirpe guerrera\", y ser el más poderoso entre ellos junto a Piccolo.",
+          "image": "https://dragonball-api.com/characters/Nail_Artwork.webp",
+          "affiliation": "Z Fighter",
+          "deletedAt": null
+      }
+  ]
+}]
