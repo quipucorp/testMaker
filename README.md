@@ -13,4 +13,4 @@ planets: createAt, description, id, uid, image, isDestroyed, name
 Es este script vamos a encontrar la conexión de la base de datos y una consulta de los characters para generar un CSV con los datos de la base. Este informe se genera en la carpeta csv con el nombre de characters.csv y para crearlo basta con correr el comando npm start una vez tengamos las dependencias instaladas en node
 
 
-Es necesario para correr el script la cuenta de servicio llamado testmaker-service.json que es un archivo que está en él .zip adjunto llamado testmaker-service.zip y para poder descomprimir el archivo debes usar la clave enviada en el correo.
+Es necesario para correr el script la cuenta de servicio llamado testmaker-service.json que es un archivo debes solicitar los datos remplázalos en el archivo
